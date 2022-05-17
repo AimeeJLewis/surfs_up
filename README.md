@@ -11,3 +11,9 @@ The purpose of this analysis was to familarize with SQLite, SQLAlchemy and Flask
 - The minimum temperature Oahu saw in December was 56 degrees, but also saw a max temp of 83 degrees.
 - In both the months of June and December you can expect to see seventy degree weather.
 ## Summary
+### June Precipitation Statistics
+![Image 5-17-22 at 1 45 PM (1)](https://user-images.githubusercontent.com/101950175/168907362-6c1fcf18-a02c-492d-aa03-adc4c6c49f57.png)
+### December Precipitation Statistics
+![Image 5-17-22 at 1 45 PM](https://user-images.githubusercontent.com/101950175/168907416-4c5dabfb-1153-4ade-bde0-73899fb845a7.png)
+
+When taking into consideration the precipitation for both the month of June and December, we find that the mean precipitations are very similar as well with June at .14 and December at .22. The months are pretty similar in regards to weather - there isn't any data that would suggest that the investor shouldn't open up his shop.  The weather on Oahu supports a Ice-Cream and Surf shop being open year-round.
